@@ -1,0 +1,44 @@
+[
+  {
+    "name": "editphieuyeucau",
+    "path": "/editphieuyeucau",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\request-form\\\\pages\\\\editphieuyeucau.vue",
+    "chunkName": "pages/editphieuyeucau"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\request-form\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "phieuyeucau",
+    "path": "/phieuyeucau",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\request-form\\\\pages\\\\phieuyeucau.vue",
+    "chunkName": "pages/phieuyeucau"
+  },
+  {
+    "name": "taokhachhang",
+    "path": "/taokhachhang",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\request-form\\\\pages\\\\taokhachhang.vue",
+    "chunkName": "pages/taokhachhang"
+  },
+  {
+    "name": "taotaikhoan",
+    "path": "/taotaikhoan",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\request-form\\\\pages\\\\taotaikhoan.vue",
+    "chunkName": "pages/taotaikhoan"
+  },
+  {
+    "name": "thongtintaikhoan",
+    "path": "/thongtintaikhoan",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\request-form\\\\pages\\\\thongtintaikhoan.vue",
+    "chunkName": "pages/thongtintaikhoan"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\kiethh\\\\Desktop\\\\request-form\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

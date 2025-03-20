@@ -1,0 +1,8 @@
+{
+  "Alert": {
+    "description": "Auto imported from components/alert.vue"
+  },
+  "SignaturePad": {
+    "description": "Auto imported from components/SignaturePad.vue"
+  }
+}
